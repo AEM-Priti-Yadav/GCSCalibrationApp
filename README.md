@@ -10,7 +10,7 @@ This Android application is built in Java using Android Studio. It performs cali
 - Multi-threaded data and UI management
 
 ### 📱 Requirements:
-- Android 8.0+ (API 26)
+- Android 8.0+ (API 22)
 - OTG-supported device
 - USB Serial communication (felHR85/UsbSerial)
 
