@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         joystick = findViewById(R.id.joystickLeft);
         valueText = findViewById(R.id.leftJoystickValue);
 
-        joystick.post(() -> updateKnobPosition(50, 70)); // Example X=50, Y=70
+        joystick.post(() -> updateKnobPosition(20, 40)); // Example X=50, Y=70
 
     }
     private void updateKnobPosition(float xValue, float yValue) {
